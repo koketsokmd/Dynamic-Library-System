@@ -1,0 +1,33 @@
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\csc.exe
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\vbc.exe
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\Library System.dll.config
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\Library System.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\Library System.pdb
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Helpers.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Mvc.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Razor.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Webpages.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Razor.xml
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Webpages.xml
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Helpers.xml
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\bin\System.Web.Mvc.xml
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\obj\Debug\Library System.csprojResolveAssemblyReference.cache
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\obj\Debug\Library System.dll
+C:\Users\Kmoseamedi\Desktop\Library System Landing Pages\Library System\Library System\Library System\obj\Debug\Library System.pdb

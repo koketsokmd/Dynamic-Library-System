@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background:f4f4f4;
+}
+
+.main-color-bg{
+	background-color: #2a398c !important;
+  	border-color: #2a398c !important;
+	color:#FFFFFF !important;
+}
+
+/*Header*/
+
+#header{
+	background: #2a398c;
+	color:#FFFFFF;
+	padding-bottom:10px;
+	margin-bottom:15px;
+	
+}
+
+#header .create{
+	padding-top: 20px;
+}
+
+/*Breadcuner*/
+
+.breadcrumb{
+	background:#2a398c;
+	color:#333333;	
+}
+
+.breadcrumb a{
+	color:#333333;
+
+
+
+@media (max-width: 767px) {
+}
+
+
+
